@@ -1,0 +1,67 @@
+body{
+  align-items: center;
+  justify-content: center;
+  background-color:#22272b;
+  margin:10px;
+}
+
+h1{
+    font-family: 'Segoe UI';
+    text-shadow: 2px 2px #6d6e6f;
+    text-decoration: overline;
+    color: whitesmoke;
+    text-align: center;
+}
+
+p{
+    font-family: 'Segoe UI';
+    color: white;
+    text-align: center;
+}
+
+.polaroid {
+  justify-content: center;
+  background-color: #53535e;
+  float: left;
+  margin: 20px 10px 40px 50px;
+  border: 1px solid #ccc;
+}
+
+.descricao {
+  text-align: center;
+  padding: 3px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  font-family: 'Segoe UI';
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.atual{
+  background-color: #111;
+}
+
+footer {
+  color: #53535e;
+  text-align: center;
+}
